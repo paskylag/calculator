@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Caudex&family=Cinzel+Decorative&family=Petemoss&family=Playfair+Display:ital,wght@1,600&display=swap');
+
+body{ display: flex; flex-direction: column; height: 50px; justify-content: center; align-items: center; font-size: 10px; margin-top: 5px;}
+
+#container{display: flex; flex-direction: column; height: 50px; justify-content: center; align-items: center; margin-top: 50%;}
+
+#button{display: inline; margin-left: 5px; margin-right: 5px; margin-top: 15px; background-color: orange;}
+
+#btn_1{color: red;}
+
+#btn_2{color: blue; }
+
+#btn_3{color: green;}
+
+#btn_4{color: orange;}
+
+h3{text-align: center; justify-content: center; font-size: 30px; margin-bottom: 15px; margin-top: 10%;}
+
+#num_1{padding-top: 15px; margin-top: 20px; background-color: black; color:white ;}
+
+#num_2{padding-top:15px; margin-top: 20px; background-color: black; color: white;}
+
+#num_0{background-color: black; color: white; width: 15vw; padding:40px; border-radius: 10px;}
+
+#btn_31{color:brown}
+
+#let2{font-family:'caudex';}
+
